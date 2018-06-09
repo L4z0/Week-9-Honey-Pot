@@ -15,5 +15,5 @@ TOP 5 Honey Pots: dionaea (1 attacks)
 TOP 5 Sensors: mhn-honeypot-1 (1 attacks)
 
 ## Any unresolved questions raised by the data collected:
-* Yes, for some odd reason on my vmware, the Attack report displays only one attack report when it should have displayed multiple. I researched online and couldn't find anything that could resolve my issue. 
+* Yes, for some odd reason on my vmware, the Attack report displays only one attack report when it should have displayed multiple. I researched online and couldn't find anything that could resolve my issue. I have attached a screenshot of the honeypot attack result.
 
