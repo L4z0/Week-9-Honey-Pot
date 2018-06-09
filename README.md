@@ -8,7 +8,7 @@
 https://github.com/threatstream/mhn/issues/560 
 
 ## A summary of the data collected: number of attacks, number of malware samples, etc.
-*Attacks in the last 24 hours: 1
+* Attacks in the last 24 hours: 1
 TOP 5 Attacker IPs: 46.161.27.30 (1 attacks)
 TOP 5 Attacked ports: 8545 (1 times)
 TOP 5 Honey Pots: dionaea (1 attacks)
