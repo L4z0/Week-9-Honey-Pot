@@ -17,3 +17,6 @@ TOP 5 Sensors: mhn-honeypot-1 (1 attacks)
 ## Any unresolved questions raised by the data collected:
 * Yes, for some odd reason on my vmware, the Attack report displays only one attack report when it should have displayed multiple. I researched online and couldn't find anything that could resolve my issue. I have attached a screenshot of the honeypot attack result.
 
+##Issues:
+* An issue I kept having was trying to download the session.json file. The instructions provided did not work for me since it required a public key authentication and for some odd reason I was denied access. So I learned to transfer the session.json into a bucket, opened the saved file link in the url and then right-clicked on the page and downloaded it from there.
+
